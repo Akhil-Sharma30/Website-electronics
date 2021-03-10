@@ -1,0 +1,3 @@
+portfolio
+a creative website which gives links for various questions and answers  asked by
+people which is also known as FAQ'S MEANING FREQUENTLY ASKED QUESTIONS.
